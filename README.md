@@ -6,7 +6,7 @@
 
 ⚡ Apaixonado por tecnologia e inovação
 
-sou formado em Análise e Desenvolvimento de Sistemas e desenvolvedor front-end com experiência em React, JavaScript, HTML e CSS. Meu foco é criar interfaces modernas, responsivas e intuitivas. Busco sempre aprimorar minhas habilidades e aprender novas tecnologias para entregar soluções cada vez mais eficientes.
+Sou formado em Análise e Desenvolvimento de Sistemas e desenvolvedor front-end com experiência em React, JavaScript, HTML e CSS. Meu foco é criar interfaces modernas, responsivas e intuitivas. Busco sempre aprimorar minhas habilidades e aprender novas tecnologias para entregar soluções cada vez mais eficientes.
 
 ### 🤖 Linguagens e Tecnologias
 
